@@ -149,7 +149,7 @@ textarea {
 
     .caixa-mae {
         flex-direction: column ;
-        padding: 10px;
+        padding: 10.0px;
     }
 
     .caixa-principal {
@@ -159,7 +159,7 @@ textarea {
     }
 
     .logo-mario-luigi {
-        width: 80vw;
+        width: 80.0vw;
         height: auto;
 
     }
